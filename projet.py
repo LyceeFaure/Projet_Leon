@@ -1,2 +1,2 @@
-print("Mec de cité, simple")
-
+﻿print("Mec de cité, simple")
+print("modif")
